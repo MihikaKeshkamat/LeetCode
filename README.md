@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
