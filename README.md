@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
