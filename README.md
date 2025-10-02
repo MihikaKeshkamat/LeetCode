@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3336-water-bottles-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
