@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
