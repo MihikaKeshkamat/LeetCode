@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -100,8 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
