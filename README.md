@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0961-long-pressed-name) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
