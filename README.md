@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0739-daily-temperatures](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
 | [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
 | ------- |
