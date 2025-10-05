@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0961-long-pressed-name) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
