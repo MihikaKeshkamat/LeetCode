@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
