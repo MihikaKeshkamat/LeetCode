@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Database
+|  |
+| ------- |
+| [2087-confirmation-rate](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
