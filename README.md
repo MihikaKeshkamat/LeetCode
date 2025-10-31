@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -162,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Database
 |  |
