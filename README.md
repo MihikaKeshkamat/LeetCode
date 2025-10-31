@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -174,8 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
