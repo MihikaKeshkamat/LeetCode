@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0961-long-pressed-name) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0542-01-matrix) |
 | [1362-airplane-seat-assignment-probability](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Depth-First Search
 |  |
 | ------- |
