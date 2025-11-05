@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0279-perfect-squares) |
