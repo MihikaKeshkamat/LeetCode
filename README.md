@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0279-perfect-squares) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1362-airplane-seat-assignment-probability](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1642-water-bottles](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -275,4 +280,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
