@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0542-01-matrix) |
 | [1362-airplane-seat-assignment-probability](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -303,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
