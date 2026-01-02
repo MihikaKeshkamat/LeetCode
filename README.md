@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0279-perfect-squares) |
 | [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1362-airplane-seat-assignment-probability](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
