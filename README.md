@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0860-design-circular-queue](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
 | [0940-fruit-into-baskets](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
