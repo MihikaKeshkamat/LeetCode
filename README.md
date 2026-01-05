@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-maximum-matrix-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1975-maximum-matrix-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Depth-First Search
 |  |
