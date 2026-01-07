@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
