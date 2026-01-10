@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0279-perfect-squares](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MihikaKeshkamat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1362-airplane-seat-assignment-probability](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
