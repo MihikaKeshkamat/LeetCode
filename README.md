@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3453-separate-squares-i](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MihikaKeshkamat/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -340,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MihikaKeshkamat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/MihikaKeshkamat/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
